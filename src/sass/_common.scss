@@ -13,9 +13,12 @@
 
 
 @import './loyout/header';
-// @import './loyout/footer';
+@import './loyout/footer';
 
 @import './components/hero';
+@import './components/modal';
 @import './components/about';
-// @import './components/_services.html';
-// @import './components/studio';
+@import './components/services';
+@import './components/studio';
+@import './components/corporate';
+
